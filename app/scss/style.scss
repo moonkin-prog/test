@@ -1,0 +1,12 @@
+@import 'global';
+@import 'vars';
+
+body {
+    background-color: red;
+    color: blue;
+    footer {
+        font-size: 15px;
+        line-height: 24px;
+        display: flex;
+    }
+}
